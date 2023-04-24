@@ -1,0 +1,12 @@
+..
+
+cart
+
+total price
+
+tax
+
+.....
+...
+..
+.
